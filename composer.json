@@ -1,0 +1,11 @@
+{
+    "require": {
+        "rakit/validation": "^1.4",
+        "cocur/slugify": "^4.6"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
+}

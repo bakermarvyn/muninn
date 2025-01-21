@@ -1,0 +1,8 @@
+{
+    "DBHOST": "localhost",
+    "DBUSER": "oldone",
+    "DBPASS": "Ag@asd12d82as",
+    "DBNAME": "muninn",
+    "DBPORT": "3306",
+    "DBCHAR": "utf8mb4"
+}
